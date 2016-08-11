@@ -269,8 +269,12 @@ h3 {
 }
 
 a {
-  color: inherit;
+  color: #3899BF;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 section ul {
