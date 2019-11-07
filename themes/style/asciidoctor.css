@@ -549,7 +549,7 @@ section.source h2 {
   margin: 0 .5em .5em 0;
   color: #7A2518;
   /*color: #222;*/
-  text-align: right;
+  text-align: left;
 }
 
 section.source.lhs h2 {
